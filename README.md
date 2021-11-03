@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![selim's 42 stats](https://badge42.herokuapp.com/api/stats/selim?privacyEmail=true)](https://github.com/selim/badge42)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soysauce1368">
