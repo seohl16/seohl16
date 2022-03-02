@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![selim's 42 stats](https://badge42.herokuapp.com/api/stats/selim?privacyEmail=true)](https://github.com/selim/badge42)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soysauce1368">
+
 -->
 
 
@@ -27,5 +29,4 @@ Here are some ideas to get you started:
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohl16&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soysauce1368">
 
