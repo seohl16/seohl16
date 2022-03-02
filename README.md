@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ![스크린샷 2022-02-18 오전 11 37 35](https://user-images.githubusercontent.com/68208055/156388968-65b42aa3-388c-404d-abee-bb651d1883de.png)
 
 ### 🔭 I’m currently working on ...
-- 42 Seoul (2020.10 ~ 2022.10)
-- BoostCamp AI Tech 3기 (2022.02 ~ 2022.06)
+- 42 Seoul 2기 1차 (2020.10 ~ 2022.10)
+- BoostCamp AI Tech 3기 일반 (2022.02 ~ 2022.06)
 
 
 <br>
