@@ -4,6 +4,8 @@
 - ⚡ Fun fact: ...
 [![selim's 42 stats](https://badge42.herokuapp.com/api/stats/selim?privacyEmail=true)](https://github.com/selim/badge42)
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soysauce1368">
+<img width="600" alt="스크린샷 2022-07-03 오후 4 52 16" src="https://user-images.githubusercontent.com/68208055/177030539-fab94d9b-49b6-4139-91ed-f9d53b2f863b.png">
+
 ## 42 Seoul Projects 
 
 
@@ -21,8 +23,8 @@
 ![스크린샷 2022-02-18 오전 11 37 35](https://user-images.githubusercontent.com/68208055/156388968-65b42aa3-388c-404d-abee-bb651d1883de.png)
 
 -->
+[![selim's 42 stats](https://badge42.vercel.app/api/v2/cl553bnwl011609mrmc8i7gt1/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
-<img width="600" alt="스크린샷 2022-07-03 오후 4 52 16" src="https://user-images.githubusercontent.com/68208055/177030539-fab94d9b-49b6-4139-91ed-f9d53b2f863b.png">
 
 
 ## 🔭 I’m currently working on ...
