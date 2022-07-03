@@ -18,10 +18,11 @@
 - [Object Detection](https://github.com/boostcampaitech3/level2-object-detection-level2-cv-11)
 - [Semantic Segmentation](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-11)
 - [MOFY: MOsaic For You](https://github.com/seohl16/final-project-level3-cv-11)
+![스크린샷 2022-02-18 오전 11 37 35](https://user-images.githubusercontent.com/68208055/156388968-65b42aa3-388c-404d-abee-bb651d1883de.png)
 
 -->
 
-![스크린샷 2022-02-18 오전 11 37 35](https://user-images.githubusercontent.com/68208055/156388968-65b42aa3-388c-404d-abee-bb651d1883de.png)
+<img width="600" alt="스크린샷 2022-07-03 오후 4 52 16" src="https://user-images.githubusercontent.com/68208055/177030539-fab94d9b-49b6-4139-91ed-f9d53b2f863b.png">
 
 
 ## 🔭 I’m currently working on ...
