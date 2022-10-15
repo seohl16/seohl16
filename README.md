@@ -29,7 +29,7 @@
 
 ## 🔭 I’m currently working on ...
 - 42 Seoul 2기 1차 (2020.09 ~ 2022.10)
-- 42 Seoul 본과정 수료 및 Member (2022.10 ~ 2023.08)
+- 42 Seoul 본과정 수료 및 Member 
 - BoostCamp AI Tech 3기 일반 (2022.02 ~ 2022.06)
 
 
