@@ -21,9 +21,11 @@
 - [Semantic Segmentation](https://github.com/boostcampaitech3/level2-semantic-segmentation-level2-cv-11)
 - [MOFY: MOsaic For You](https://github.com/seohl16/final-project-level3-cv-11)
 ![스크린샷 2022-02-18 오전 11 37 35](https://user-images.githubusercontent.com/68208055/156388968-65b42aa3-388c-404d-abee-bb651d1883de.png)
+[![selim's 42 stats](https://badge42.vercel.app/api/v2/cl553bnwl011609mrmc8i7gt1/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+![github_m42](https://user-images.githubusercontent.com/68208055/198962059-5983c0a2-4db9-41d0-818f-e0eb1b256877.PNG)
 
 -->
-[![selim's 42 stats](https://badge42.vercel.app/api/v2/cl553bnwl011609mrmc8i7gt1/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+<img width="550" alt="github_m42" src="https://user-images.githubusercontent.com/68208055/198962059-5983c0a2-4db9-41d0-818f-e0eb1b256877.PNG">
 
 
 
